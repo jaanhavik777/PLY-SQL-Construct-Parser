@@ -37,7 +37,7 @@ sql-parser-ply/
 │
 ├── main.py              # Runs sample queries
 ├── lexer_parser.py     # Lexer + Parser logic
-├── requirements.txt
+├── test.txt             # Sample test queries
 └── README.md
 ```
 
