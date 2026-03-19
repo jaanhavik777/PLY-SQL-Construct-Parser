@@ -1,0 +1,6 @@
+DELETE FROM employees WHERE id = 101
+SELECT dept FROM employees GROUP BY dept
+employees JOIN departments ON id = dept_id
+DELETE FROM employees WHERE
+DELETE FROM employees WHERE id == 101
+DELETE FROM employees WHERE id = #101
